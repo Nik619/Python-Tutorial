@@ -17,3 +17,6 @@ lists = ['ABd',2,33.45,"John"]
 smalllist = ['JOJO',45]
 
 print(lists[0:2])
+
+
+
