@@ -1,4 +1,4 @@
-#Calculating if the number is odd or even
+#  The below code bloack would take two user input and would then predict if the number is odd or even
 
 number1 =  int(input("Please enter a number"))
 
