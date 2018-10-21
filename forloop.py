@@ -55,7 +55,7 @@ for b in range(0,10,2):
 print("   ")
 
 
-#
+# The same Follows for decrementation but the Step value should have minus symbol
 for c in range(40,0,-10):
 	print(c)
 
